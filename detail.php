@@ -64,7 +64,7 @@
             </div>
             <div class="as-search-results as-filter-open as-category-landing as-desktop" id="as-search-results">
 
-                <div id="accessories-tab" class="as-accessories-details">
+                <form action="/checkout.php" id="accessories-tab" class="as-accessories-details">
                     <div class="as-accessories" id="as-accessories">
                         <div class="as-accessories-header">
                             <div class="as-search-results-count">
@@ -135,7 +135,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </form>
             </div>
         </div>
         <div role="alert" class="as-loader-text ally" aria-live="assertive"></div>
